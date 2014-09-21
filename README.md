@@ -141,7 +141,7 @@ the analyses from raw data all the way to final results. If you are trying to be
 some summarization/data analysis steps before the data can be considered tidy. 
 
 The ideal thing for you to do when performing summarization is to create a computer script (in `R`, `Python`, or something else) 
-that takes the raw data as input and produces the tidy data you are sharing as output. You can try running your script
+that takes the raw data as input and produces the tidy data you are sharing as output. You can try runningyour script
 a couple of times and see if the code produces the same output. 
 
 In many cases, the person who collected the data has incentive to make it tidy for a statistician to speed the process
